@@ -19,7 +19,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete`
 
 ## Usage
 
-Use a web browser to access the app:
+Use a web browser to access the app: https://sheltered-falls-58607.herokuapp.com/ <br>
 To use the backend of the app, install and use Insomnia.
 
 ## Visual Representation
@@ -35,6 +35,9 @@ GET /api/notes reads the db.json file
 
 ![Alt text](assets/images/Screen%20Shot%202023-04-16%20at%206.05.54%20PM.png)
 
+![Alt text](assets/images/Screen%20Shot%202023-04-16%20at%206.22.46%20PM.png)
+
 ## Links
 
 - Github: [Elisha Ballard](https://github.com/ldom3976)
+- Deployed Site: [Heroku](https://sheltered-falls-58607.herokuapp.com/)
